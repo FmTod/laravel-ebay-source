@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.5",
-        "fmtod/ebay-sdk-php": "^19.0"
+        "fmtod/ebay-sdk-php": "^19.0.1"
     },
     "license": "MIT",
     "authors": [
